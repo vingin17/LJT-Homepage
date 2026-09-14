@@ -39,8 +39,7 @@ My research focuses on natural language processing and machine learning. My rese
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-   *Arxiv*, 2025  
-   [GitHub](https://github.com/Vicent0205/SynLogic)
+   *Arxiv*, 2025
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
